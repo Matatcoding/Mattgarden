@@ -3,6 +3,7 @@ body {
 }
 
 .garden {
+  display: grid;
   border: 2px solid maroon;
   padding: 2px;
   gap: 2px;
