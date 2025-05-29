@@ -81,5 +81,6 @@
 /* Level 6*/
 
 #level-6{
-    
+    grid-auto-rows: auto;
+    grid-template-columns:repeat( auto-fit, minmax(5rem, 1fr) );
 }
